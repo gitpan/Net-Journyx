@@ -1,7 +1,7 @@
 package Net::Journyx;
 use Moose;
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 use Net::Journyx::SOAP;
 
@@ -195,18 +195,20 @@ Net::Journyx - interface to Journyx
 
 =head1 DESCRIPTION
 
-=head1 METHODS
-
+Please see L<Net::Journyx::Tutorial> for now.
 
 =head1 AUTHORS
 
+Ruslan Zakirov, C<ruz@cpan.org>
+
 =head1 CONTRIBUTORS
 
-=head1 BUGS
-
+Shawn M Moore, C<sartak@bestpractical.com>
 
 =head1 COPYRIGHT & LICENSE
 
 Copyright 2009 Best Practical Solutions.
+
+This module is distributed under the same terms as Perl itself.
 
 =cut
